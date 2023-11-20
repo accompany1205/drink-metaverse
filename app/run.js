@@ -5,7 +5,7 @@ var turn = require('node-turn');
 
 // Database
 var database = require('../database.js');
-var errorMiddleware = require('../middlewares/helpers/error');
+// var errorMiddleware = require('../middlewares/helpers/error');
 
 // Run app
 function runApp(app) {
